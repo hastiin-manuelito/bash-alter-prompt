@@ -1,7 +1,5 @@
 #!/bin/env python
 
-<<<<<<< HEAD
-=======
 # Using this repository to get well acquinted with git
 SPAN = 80
 VARIABLE = 'O'
@@ -17,5 +15,3 @@ def print_pattern(span, variable, space):
         print(llateralspan + space + varspan + space + rlateralspan)
 
 print_pattern(SPAN, VARIABLE, SPACE)
-        
->>>>>>> experimental
